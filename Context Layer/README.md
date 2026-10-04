@@ -1,4 +1,4 @@
-Context Layer
+Context Layer:
 
 The Context Layer provides the AI decision-support system with the information necessary to interpret the user's current physiological and operational state.
 
