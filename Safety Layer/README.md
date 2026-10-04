@@ -1,5 +1,3 @@
-Safety Layer
-
 The Safety Layer is the system's first line of defense against unsafe or inappropriate recommendations from the AI decision-support system.
 
 Purpose
