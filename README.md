@@ -1,4 +1,4 @@
-# Offline AI Decision Support for Mars EVA
+# Offline AI Decision Support for Martian Crews
 
 An offline AI decision-support system designed to assist astronauts
 during medical and operational emergencies on the Martian surface.
